@@ -8,6 +8,8 @@
 </b>
 </p>
 
+[(Репозиторий)](https://github.com/dinrar/ds-projects)
+
 | **Проект** | **Задание** | **Библиотеки** |
 |-|-|-|
 | [Предсказание температуры в плавильном ковше](https://github.com/dinrar/ds-projects/tree/main/melting_ladle_temperature) | Предсказать температуру в плавильном ковше с заданной метрикой *MAE*.  | catboost, numpy, optuna, pandas, pandas_profiling, seaborn, shap, sklearn, matplotlib |
