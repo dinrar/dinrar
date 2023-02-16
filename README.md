@@ -4,7 +4,9 @@
 ## Data Science
 
 <p align="center">
+<b>
 Проекты Data Science
+</b>
 </p>
 
 | **Проект** | **Задание** |**Что сделано** | **Библиотеки** |
@@ -18,10 +20,12 @@
 ## Метрология
 
 <p align="center">
+<b>
 Надстройка для Excel "URALTEST ADDIN" (VBA)
+</b>
 </p>
 
-### [(Репозиторий)](https://github.com/dinrar/uraltest-excel-addin-project)
+[(Репозиторий)](https://github.com/dinrar/uraltest-excel-addin-project)
 
 Надстройка добавляет в ribbon-панель Excel кнопки, функционал которых позволяет решать 2 основные задачи:
 1. упрощение процессов создания и ведения протоколов измерений;
@@ -42,7 +46,9 @@
 ___
 
 <p align="center">
+<b>
 Статьи
+</b>
 </p>
 
 |Год|Направление*|Название*|Примечание|
