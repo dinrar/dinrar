@@ -3,8 +3,6 @@
 
 ## Data Science
 
-___
-
 <p align="center">
 Проекты Data Science
 </p>
