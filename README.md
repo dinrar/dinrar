@@ -15,7 +15,7 @@
 
 | **Проект** | **Задание** | **Инструменты** |
 |-|-|-|
-| [Разработка дашборда для анализа данных фонда оплаты труда](https://github.com/dinrar/da-projects/tree/main/https:/wage_fund_dashboard) | Разработать дашборд для отображения информации в удобном для дальнейшего анализа виде. | excel, pivot table, slicer |
+| [Разработка дашборда для анализа данных фонда оплаты труда](https://github.com/dinrar/da-projects/tree/main/wage_fund_dashboard) | Разработать дашборд для отображения информации в удобном для дальнейшего анализа виде. | excel, pivot table, slicer |
 
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 
