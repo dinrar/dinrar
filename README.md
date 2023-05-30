@@ -1,6 +1,24 @@
 <a id='link1'></a>
 
-## Data Science
+
+## Data Science & Data Analysis
+
+
+
+<p align="center">
+<b>
+Проекты Data Analysis
+</b>
+</p>
+
+[(Репозиторий)](https://github.com/dinrar/da-projects)
+
+| **Проект** | **Задание** | **Инструменты** |
+|-|-|-|
+| [Разработка дашборда для анализа данных фонда оплаты труда](https://github.com/dinrar/da-projects/tree/main/https:/wage_fund_dashboard) | Разработать дашборд для отображения информации в удобном для дальнейшего анализа виде. | excel, pivot table, slicer |
+
+<a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+
 
 <p align="center">
 <b>
@@ -10,7 +28,7 @@
 
 [(Репозиторий)](https://github.com/dinrar/ds-projects)
 
-| **Проект** | **Задание** | **Библиотеки** |
+| **Проект** | **Задание** | **Инструменты** |
 |-|-|-|
 | [Предсказание температуры в плавильном ковше](https://github.com/dinrar/ds-projects/tree/main/melting_ladle_temperature) | Предсказать температуру в плавильном ковше с заданной метрикой *MAE*.  | catboost, numpy, optuna, pandas, pandas_profiling, seaborn, shap, sklearn, matplotlib |
 | [Определение возраста покупателей по фото (CV)](https://github.com/dinrar/ds-projects/tree/main/age_determining_by_photo) | Определить возраст по фотографии с заданной метрикой *MAE*. | pandas, keras |
