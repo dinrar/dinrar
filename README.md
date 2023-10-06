@@ -33,7 +33,7 @@
 | [Предсказание температуры в плавильном ковше](https://github.com/dinrar/ds-projects/tree/main/melting_ladle_temperature) | Предсказать температуру в плавильном ковше с заданной метрикой *MAE*.  | catboost, numpy, optuna, pandas, pandas_profiling, seaborn, shap, sklearn, matplotlib |
 | [Определение возраста покупателей по фото (CV)](https://github.com/dinrar/ds-projects/tree/main/age_determining_by_photo) | Определить возраст по фотографии с заданной метрикой *MAE*. | pandas, keras |
 | [Определение токсичных комментариев (NLP)](https://github.com/dinrar/ds-projects/tree/main/toxic_comments_detection) | Разработать инструмент для автоматического выявления токсичных правок с заданной метрикой *f1*. | sklearn, tqdm, BERT (RoBERTa), numpy, pandas, torch |
-| [Прогнозирование заказов такси (time-series data)](https://github.com/dinrar/ds-projects/tree/main/taxi_demand_prediction)) | Предсказать количество заказов такси на час вперед с заданной метрикой *RMSE*. | matplotlib, sklearn, statsmodels.tsa.seasonal, catboost, numpy, pandas, seaborn, shap |
+| [Прогнозирование заказов такси (time-series data)](https://github.com/dinrar/ds-projects/tree/main/taxi_demand_prediction) | Предсказать количество заказов такси на час вперед с заданной метрикой *RMSE*. | matplotlib, sklearn, statsmodels.tsa.seasonal, catboost, numpy, pandas, seaborn, shap |
 | [Исследование данных о компьютерных играх (EDA, A/B-test)](https://github.com/dinrar/ds-projects/tree/main/video_games_research) | Определить признаки, по которым можно выявить потенциально популярную видеоигру; проверить две гипотезы. | scipy, math, numpy, pandas|
 
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
